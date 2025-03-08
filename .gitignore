@@ -1,0 +1,32 @@
+# Generated desktop entries
+*.desktop
+
+# Extracted AppImage contents
+squashfs-root/
+
+# Downloaded icons
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.ico
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Editor backup files
+*.bak
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# User-specific files
+.directory
+.Trash-*
+
+# Test outputs
+test/ 
