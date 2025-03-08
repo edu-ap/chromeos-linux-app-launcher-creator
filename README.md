@@ -92,8 +92,8 @@ If Chrome OS can't find the application:
 
 ### Path Translation
 
-Chrome OS and Linux see files in different locations:
-- Chrome OS: `/home/chronos/user/Downloads/app.AppImage`
+ChromeOS and Linux see files in different locations:
+- ChromeOS: `/home/user/Downloads/app.AppImage` or `/home/user/MyFiles/Downloads/app.AppImage`
 - Linux VM: `/mnt/chromeos/MyFiles/Downloads/app.AppImage`
 
 This tool automatically handles this translation.
